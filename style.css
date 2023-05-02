@@ -1,0 +1,18 @@
+body{
+    background-color: limegreen;
+}
+
+#score{
+    font-size: 23px;
+    margin-left: 1480px;
+}
+
+#time{
+    font-size: 23px;
+    float: right;
+    margin-right: 1460px;
+}
+
+#draw_sketch{
+    color: red;
+}
